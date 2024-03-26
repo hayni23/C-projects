@@ -1,0 +1,16 @@
+Id Voiture |La Marque    |Le nom       |Couleur |Nombre du places |Prix a jour |En Location 
+
+
+1          |Renault      |Kango        |Blanc   |6                |30          |Non
+3          |LAMBORGHINI  |Gallardo     |Orange  |1                |200         |Non
+2          |PORSCHE      |Carrera      |Marron  |2                |100         |Oui
+5          |TOYOTA       |Corolla      |Marron  |5                |80          |Non
+6          |BMW          |X7           |Noire   |5                |110         |Non
+7          |DACIA        |Logan        |Gris    |5                |50          |Non
+8          |VOLVO        |V40          |Violet  |5                |66          |Non
+9          |FERRARI      |Berlinetta   |Rouge   |2                |250         |Non
+10         |SKODA        |Kodiaq       |Blanc   |5                |58          |Oui
+11         |FORD         |Torino       |Bleu    |5                |92          |Non
+12         |CITROEN      |C4           |Noir    |5                |40          |Oui
+13         |JEEP         |Wrangler     |Blanc   |5                |109         |Oui
+14         |MASERATI     |Quattroporte |Bleu    |2                |190         |Non

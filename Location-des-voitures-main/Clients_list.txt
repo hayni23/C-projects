@@ -1,0 +1,12 @@
+Id Client   |Le Nom     |Le prenom    |CIN     |Adresse    |Telephone 
+
+1    |Marwa      |Fatih       |SH201512   |Talberjt/Agadir       |+212637690883
+2    |hamza      |Boutri      |JC562341   |Dakhla/Agadir         |+212682657423
+3    |mohamed    |Sabar       |JC550056   |Assaka/Tiznit         |+212758423636
+4    |abdelkarim |Mahfoud     |JC523523   |Ferq Elhbab/taroudant |+212685250523
+5    |mohamed    |Chana       |SH454554   |chnaynat/oulad teima  |+212741532344
+6    |Hajar      |Lmaazi      |SH455452   |Mhita/taroudant       |+212607147014
+7    |Henry      |haland      |AA00000    |Californie/Casablanca |+212685241734
+8    |yassin     |Hmira       |JC778442   |Anza/Agadir           |+212666335144
+
+        
